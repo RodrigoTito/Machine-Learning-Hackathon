@@ -1,0 +1,2 @@
+# Machine-Learning-Hackathon
+O XYZ Bank é um banco privado de médio porte que inclui uma variedade de produtos bancários, como contas de poupança, contas correntes, produtos de investimento, produtos de crédito e empréstimos imobiliários.  O Banco quer prever o próximo conjunto de produtos para um conjunto de clientes para otimizar suas campanhas de marketing e comunicação.  O objetivo é prever o próximo conjunto de produtos (até 3 produtos) para um conjunto de clientes (dados de teste) com base em seus dados demográficos e acervos de produtos atuais.
